@@ -2,3 +2,5 @@ node_modules/
 .eslintcache
 config.env
 .DS_Store
+
+yarn-error.log
